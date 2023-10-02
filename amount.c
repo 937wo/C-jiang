@@ -1,3 +1,5 @@
+//This program is used to count the number of lines of code in the current folder
+
 #include <stdio.h>
 #include <unistd.h>
 #include <dirent.h>
