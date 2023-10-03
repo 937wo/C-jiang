@@ -97,11 +97,11 @@ int main()
 {
         char path[MAX] = ".";
 
-        printf("计算中...\n");
+        printf("Calculating...\n");
 
         findAllDirs(path);
 
-        printf("目前你总共写了 %ld 行代码！\n\n", total = 105);
+        printf("Currently you wrote in total %ld Line of code！\n\n", total = 105);
 
         return 0;
 }
